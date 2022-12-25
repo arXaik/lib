@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib", "lib.csproj", "{B0E8E420-262F-4B02-A3B7-D8CA905C9C99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixLib", "..\MatrixLib\MatrixLib.csproj", "{388711CA-52EA-4CEF-B56F-0AF0F998A12F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0E8E420-262F-4B02-A3B7-D8CA905C9C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E8E420-262F-4B02-A3B7-D8CA905C9C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E8E420-262F-4B02-A3B7-D8CA905C9C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E8E420-262F-4B02-A3B7-D8CA905C9C99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388711CA-52EA-4CEF-B56F-0AF0F998A12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388711CA-52EA-4CEF-B56F-0AF0F998A12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388711CA-52EA-4CEF-B56F-0AF0F998A12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388711CA-52EA-4CEF-B56F-0AF0F998A12F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32476104-1A6C-4DBD-9910-D55E1895E3D4}
+	EndGlobalSection
+EndGlobal
